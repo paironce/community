@@ -8,7 +8,7 @@ browser-to-browser file transfer between your devices.
 - **Q&A**: how do I…, why won't my devices connect, which browser to use.
 - **Ideas**: what you would like PairOnce to do next.
 - **General**: problems you ran into, with your two devices, browsers and network (Wi-Fi, mobile data, VPN).
-- **Announcements**: new releases, from us.
+- **Announcements**: what is new in PairOnce, when there is something people can use.
 
 Before posting, the [transfer guide](https://paironce.com/transfer-guide) and
 [troubleshooting](https://paironce.com/transfer-troubleshooting) answer the most common questions.
